@@ -5,7 +5,6 @@ from os import listdir,remove,system
 from time import sleep
 from pyautogui import size
 from rich import print
-from filelock import FileLock
 #-------Functions------
 def Ok():
     global pass1,pass2,pass3,passwh,a,b,d
